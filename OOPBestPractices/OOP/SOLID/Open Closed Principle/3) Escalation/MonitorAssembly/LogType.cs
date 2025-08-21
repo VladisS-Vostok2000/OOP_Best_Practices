@@ -2,5 +2,8 @@
 public enum LogType {
     None,
     Console,
-    File
+    File,
+    // Crap, we need to recompile
+    // all of consumers of `LogType`
+    Monitor
 }
