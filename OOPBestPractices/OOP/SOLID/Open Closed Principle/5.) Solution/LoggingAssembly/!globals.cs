@@ -1,0 +1,1 @@
+﻿global using OOPBestPractices.OOP.SOLID.OpenClosedPrinciple.LoggingAssembly.Abstractions;
