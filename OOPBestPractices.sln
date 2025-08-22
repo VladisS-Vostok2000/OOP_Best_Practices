@@ -29,6 +29,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\LoggingAssembly\LoggingAssembly.csproj", "{939064F1-2B3C-499A-8E65-A002D82F2542}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.) Solution", "5.) Solution", "{2D68FD94-5A18-4675-B2FA-62B29CC72BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAbstractionsAssembly\LoggingAbstractionsAssembly.csproj", "{54D55645-D9E4-231E-F859-E4AEC098AF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAssembly\LoggingAssembly.csproj", "{93B519E3-DCE4-B681-C1B8-10030DE0FF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\MonitorAssembly\MonitorAssembly.csproj", "{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +67,18 @@ Global
 		{939064F1-2B3C-499A-8E65-A002D82F2542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{939064F1-2B3C-499A-8E65-A002D82F2542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{939064F1-2B3C-499A-8E65-A002D82F2542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D55645-D9E4-231E-F859-E4AEC098AF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D55645-D9E4-231E-F859-E4AEC098AF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D55645-D9E4-231E-F859-E4AEC098AF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D55645-D9E4-231E-F859-E4AEC098AF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B519E3-DCE4-B681-C1B8-10030DE0FF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B519E3-DCE4-B681-C1B8-10030DE0FF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B519E3-DCE4-B681-C1B8-10030DE0FF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B519E3-DCE4-B681-C1B8-10030DE0FF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +96,10 @@ Global
 		{C88E8EBB-DBA8-5490-99C8-809B98B6FA85} = {864BDF92-0630-4E70-9062-B16D0E082A72}
 		{04463F25-2E54-CB01-34ED-F9A38E5747BB} = {864BDF92-0630-4E70-9062-B16D0E082A72}
 		{939064F1-2B3C-499A-8E65-A002D82F2542} = {864BDF92-0630-4E70-9062-B16D0E082A72}
+		{2D68FD94-5A18-4675-B2FA-62B29CC72BBD} = {FEF08B38-9946-4351-8BA7-FDB295D94101}
+		{54D55645-D9E4-231E-F859-E4AEC098AF93} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
+		{93B519E3-DCE4-B681-C1B8-10030DE0FF82} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
+		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA6D7836-7154-412F-82CA-B3A826FA01AB}
