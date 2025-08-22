@@ -2,8 +2,14 @@
 
 To make understanding of change easest for other person make sure it is following terms:
 
-1. Use particular structure
-1.1. Important - Unimportant form the left to the right
+1. Be short
+
+2. `Important -> Unimportant` text flow
+
+3. Active voice > Passive voice
+
+
+# Examples
 
 ```
 <Verb> <Subject> <How> <Where>
@@ -11,7 +17,7 @@ To make understanding of change easest for other person make sure it is followin
 
 Bad: `I improved README.md`
 
-Bad: `README.md was improved."
+Bad: `README.md was improved`
 
 Prefer: `Improved README.md`
 
@@ -28,4 +34,3 @@ Prefer: `Improved README.md in the repo root`
 Bad: `Improved README.md in the repo root a bit`
 
 Prefer: `Improved README.md a bit in the repo root`
-
