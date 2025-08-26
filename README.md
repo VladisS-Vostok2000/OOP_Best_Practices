@@ -1,13 +1,13 @@
-# Object Orientired Programming Best Practices
+# Programming Best Practices
 
 ## Motivation
 
-This repository represents common `Programming` best practices
+This repository represents common programming best practices
 by showing before-after side-by-side code advantages/disadvantages.
 
 All of the code is available in last `master` branch commit.
 
-For better usage (such as side-by-side changing view) see the `Usage` below.
+For better usage (such as side-by-side changing view) see the `Usage` title below.
 
 
 ## Terms
@@ -48,7 +48,8 @@ For better usage (such as side-by-side changing view) see the `Usage` below.
  
 ### Github
  
-Please, navigate to particule practices by the repo root folder. After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/Best_Practices/tree/master/BestPractices/OOP/SOLID/Open%20Closed%20Principle)), follow `!Readme.md` instructions there.
+Please, navigate to particule practices by the [repo root folder](https://github.com/VladisS-Vostok2000/BestPractices/tree/master/BestPractices).
+After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/Best_Practices/tree/master/BestPractices/OOP/SOLID/Open%20Closed%20Principle)), follow `!Readme.md` instructions there.
 
 
 ### Local Repo Changes Viewer
