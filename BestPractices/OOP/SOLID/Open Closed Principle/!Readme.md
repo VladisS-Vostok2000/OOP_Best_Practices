@@ -12,12 +12,12 @@ The final result is in `Soliton`.
 
 ## Explore
 
-`Initial`: [OpenClosedPrinciple_Initial -> Master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Initial)
+`Initial`: [OpenClosedPrinciple_Initial -> master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Initial)
 
-[Mistake]()
+`Mistake`: [OpenClosedPrinciple_Mistake -> master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Mistake)
 
-[Escalation]()
+`Escalation`: [OpenClosedPrinciple_Mistake -> master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Escalation)
 
-[Refactoring]()
+`Refactoring`: [OpenClosedPrinciple_Mistake -> master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Refactoring)
 
-[Solution]()
+`Solution`: [OpenClosedPrinciple_Mistake -> master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Solution)
