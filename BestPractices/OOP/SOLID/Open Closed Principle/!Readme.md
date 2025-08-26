@@ -12,7 +12,7 @@ The final result is in `Soliton`.
 
 ## Explore
 
-`Initial`: [OpenClosedPrinciple_Initial -> Master](https://github.com/VladisS-Vostok2000/BestPractices/compare/OpenClosedPrinciple_Initial...master)
+`Initial`: [OpenClosedPrinciple_Initial -> Master](https://github.com/VladisS-Vostok2000/BestPractices/compare/master...OpenClosedPrinciple_Initial)
 
 [Mistake]()
 
