@@ -49,7 +49,7 @@ For better usage (such as side-by-side changing view) see the `Usage` title belo
 ### Github
  
 Please, navigate to particule practices by the [repo root folder](https://github.com/VladisS-Vostok2000/BestPractices/tree/master/BestPractices).
-After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/Best_Practices/tree/master/BestPractices/OOP/SOLID/Open%20Closed%20Principle)), follow `!Readme.md` instructions there.
+After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/BestPractices/tree/master/BestPractices/OOP/SOLID/Open%20Closed%20Principle)), follow `!Readme.md` instructions there.
 
 
 ### Local Repo Changes Viewer
