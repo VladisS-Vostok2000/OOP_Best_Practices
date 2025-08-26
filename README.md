@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This repository represents common `Object Orientired Programming` best practices
+This repository represents common `Programming` best practices
 by showing before-after side-by-side code advantages/disadvantages.
 
 All of the code is available in last `master` branch commit.
@@ -27,7 +27,7 @@ For better usage (such as side-by-side changing view) see the `Usage` below.
 **Architecture Types**
 
  - `Short-Term Benefit`: `Actions` that  usually extremely destructive to the future ones (such as "quick" or "easy")
-  - `Long-Term Benefit`: `Actions` that might be some bulky, but saving much resources in long-term ones
+ - `Long-Term Benefit`: `Actions` that might be some bulky, but saving much resources in long-term ones
 
 
 **Practices Structure in Repo**:
@@ -48,14 +48,14 @@ For better usage (such as side-by-side changing view) see the `Usage` below.
  
 ### Github
  
-Please, navigate to particule practices by the repo root folder. After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/OOP_Best_Practices/tree/master/OOPBestPractices/OOP/SOLID/Open%20Closed%20Principle), follow `!readme.md` instructions there.
+Please, navigate to particule practices by the repo root folder. After reaching the final destination (for example, [Open Closed Principle](https://github.com/VladisS-Vostok2000/Best_Practices/tree/master/BestPractices/OOP/SOLID/Open%20Closed%20Principle)), follow `!Readme.md` instructions there.
 
 
 ### Local Repo Changes Viewer
  
 1. Please, pull down all the repo.
 
-`git pull git@github.com:VladisS-Vostok2000/OOP_Best_Practices.git`
+`git pull git@github.com:VladisS-Vostok2000/BestPractices.git`
 
 The code is on `.NET 9 C#` actually, but language must not be so much important here.
 
@@ -63,5 +63,6 @@ The code is on `.NET 9 C#` actually, but language must not be so much important 
 
 
 
+#### Temp
 
 Practices Structureor explore the the raw code instead
