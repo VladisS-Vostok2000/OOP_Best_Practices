@@ -11,31 +11,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenClosedPrinciple", "Open
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.) Initial", "1.) Initial", "{21395A3D-ABB9-4731-B649-87D7ECF6E8BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\1) Initial\MonitorAssembly\MonitorAssembly.csproj", "{AC4E0E77-EE18-80EA-1849-D835D9CECF84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\1) Initial\MonitorAssembly\MonitorAssembly.csproj", "{AC4E0E77-EE18-80EA-1849-D835D9CECF84}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.) Mistake", "2.) Mistake", "{54CA6419-C233-4510-AA9E-EE92112D9185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\2) Mistake\MonitorAssembly\MonitorAssembly.csproj", "{299FD3C4-F9A5-6C42-EE69-A193574EF42A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\2) Mistake\MonitorAssembly\MonitorAssembly.csproj", "{299FD3C4-F9A5-6C42-EE69-A193574EF42A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.) Escalation", "3.) Escalation", "{E36122A1-3A6F-4DB3-B32B-9DC237DC9F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\3) Escalation\MonitorAssembly\MonitorAssembly.csproj", "{2ED8D91F-83DF-A3E0-88AB-ED789F6387CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\3) Escalation\MonitorAssembly\MonitorAssembly.csproj", "{2ED8D91F-83DF-A3E0-88AB-ED789F6387CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.) Refactoring", "4.) Refactoring", "{864BDF92-0630-4E70-9062-B16D0E082A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\MonitorAssembly\MonitorAssembly.csproj", "{C88E8EBB-DBA8-5490-99C8-809B98B6FA85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\MonitorAssembly\MonitorAssembly.csproj", "{C88E8EBB-DBA8-5490-99C8-809B98B6FA85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\LoggingAbstractionsAssembly\LoggingAbstractionsAssembly.csproj", "{04463F25-2E54-CB01-34ED-F9A38E5747BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\LoggingAbstractionsAssembly\LoggingAbstractionsAssembly.csproj", "{04463F25-2E54-CB01-34ED-F9A38E5747BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\LoggingAssembly\LoggingAssembly.csproj", "{939064F1-2B3C-499A-8E65-A002D82F2542}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\4.) Refactoring\LoggingAssembly\LoggingAssembly.csproj", "{939064F1-2B3C-499A-8E65-A002D82F2542}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.) Solution", "5.) Solution", "{2D68FD94-5A18-4675-B2FA-62B29CC72BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAbstractionsAssembly\LoggingAbstractionsAssembly.csproj", "{54D55645-D9E4-231E-F859-E4AEC098AF93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAbstractionsAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAbstractionsAssembly\LoggingAbstractionsAssembly.csproj", "{54D55645-D9E4-231E-F859-E4AEC098AF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAssembly\LoggingAssembly.csproj", "{93B519E3-DCE4-B681-C1B8-10030DE0FF82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\LoggingAssembly\LoggingAssembly.csproj", "{93B519E3-DCE4-B681-C1B8-10030DE0FF82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "OOPBestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\MonitorAssembly\MonitorAssembly.csproj", "{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\MonitorAssembly\MonitorAssembly.csproj", "{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
