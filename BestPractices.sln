@@ -37,6 +37,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAssembly", "BestPrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorAssembly", "BestPractices\OOP\SOLID\Open Closed Principle\5.) Solution\MonitorAssembly\MonitorAssembly.csproj", "{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency Invertion Principle", "Dependency Invertion Principle", "{C2737017-989B-4063-AA36-FCD6F6B6E48C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.) Initial", "1.) Initial", "{84566B9F-7031-468D-853C-F7E9424D08B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAssembly", "BestPractices\OOP\SOLID\Dependency Invertion Principle\1.) Initial\AppAssembly\AppAssembly.csproj", "{08DA045C-EF28-4DAC-91A7-0DD525FE13EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +85,10 @@ Global
 		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DA045C-EF28-4DAC-91A7-0DD525FE13EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DA045C-EF28-4DAC-91A7-0DD525FE13EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DA045C-EF28-4DAC-91A7-0DD525FE13EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DA045C-EF28-4DAC-91A7-0DD525FE13EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +110,9 @@ Global
 		{54D55645-D9E4-231E-F859-E4AEC098AF93} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
 		{93B519E3-DCE4-B681-C1B8-10030DE0FF82} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
 		{A4A22E56-FDAF-6471-8FE3-4BB31FAED8E5} = {2D68FD94-5A18-4675-B2FA-62B29CC72BBD}
+		{C2737017-989B-4063-AA36-FCD6F6B6E48C} = {78A6C358-1B8C-4593-AB0E-3881C5562EA7}
+		{84566B9F-7031-468D-853C-F7E9424D08B9} = {C2737017-989B-4063-AA36-FCD6F6B6E48C}
+		{08DA045C-EF28-4DAC-91A7-0DD525FE13EB} = {84566B9F-7031-468D-853C-F7E9424D08B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA6D7836-7154-412F-82CA-B3A826FA01AB}
